@@ -1,13 +1,13 @@
 # Data Cleaning Tool 🧹
 
-A Python-based **Data Cleaning Tool** built using **Pandas** and **NumPy**. This project is designed to clean, validate, transform, and analyze raw CSV/Excel datasets before 
+A Python-based **Data Cleaning Tool** built using **Pandas** and **NumPy**. 
 
+This project is designed to clean, validate, transform, and analyze raw CSV/Excel datasets before 
 using them for Data Analysis or Data Visualization.
 
 ## 📌 Project Overview
 
 Raw datasets often contain missing values, duplicate records, extra spaces, inconsistent text formatting, invalid dates, incorrect data types, and other data-quality 
-
 problems.
 
 This tool performs several data-cleaning operations automatically and displays useful information about the dataset.
